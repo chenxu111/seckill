@@ -6,7 +6,7 @@
 <body>
 
 Hello Seckill!<br/>
-
+This is my version!
 <a href="/seckill/list">秒杀列表页面</a>
 </body>
 </html>
