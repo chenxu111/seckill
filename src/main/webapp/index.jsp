@@ -7,6 +7,8 @@
 
 Hello Seckill!<br/>
 This is my version!
+
+this is my branch code!
 <a href="/seckill/list">秒杀列表页面</a>
 </body>
 </html>
